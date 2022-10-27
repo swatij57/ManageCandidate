@@ -1,2 +1,2 @@
 # ManageCandidate
-To Manage Interviewed and go to interview candidates
+To Manage Interviewed candidates and which is going to. 
